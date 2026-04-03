@@ -47,8 +47,7 @@ Me interesan especialmente el **diseño de interfaces**, la **construcción de s
 
 ## 📊 Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VstevenMata&theme=tokyonight&hide_border=true&border_radius=5.5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=200)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VstevenMata&theme=youtube-dark&hide_border=true&border_radius=5.5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=200)](https://git.io/streak-stats)
 ---
 
 ## 📌 Actualmente
