@@ -2,7 +2,7 @@
   <img src="https://wallpaperbat.com/img/860804-top-blogs-for-react-js.png" alt="Banner" />
 </p>
 
-<h1>Hola, soy <strong>Steven Mata</strong> 👋</h1>
+<h1>Hola, soy <strong>Steven Mata</strong>  <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></h1>
 
 <blockquote>
   <strong>Estudiante de Ingeniería en Sistemas de Información</strong><br/>
@@ -15,8 +15,12 @@
 
 <table>
   <tr>
-    <td width="260" valign="top" align="center">
-      <img src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg" alt="dragon" width="220" />
+    <td width="300" valign="top" align="center">
+      <img
+        src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"
+        alt="GIF"
+        width="260"
+      />
     </td>
     <td valign="top">
       Soy <strong>Steven Mata</strong>, estudiante de <strong>Ingeniería en Sistemas de Información</strong>, con experiencia en el desarrollo de <strong>aplicaciones web y de escritorio</strong>.
@@ -51,6 +55,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
 <h3>Herramientas</h3>
@@ -62,6 +68,8 @@
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Figma-7434A4?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Terminal-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" />
 </p>
 
 <h3>Bases de datos</h3>
@@ -72,6 +80,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
+
+
+<br/><br/><br/>
 
 <hr/>
 
