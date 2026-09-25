@@ -31,7 +31,7 @@
 stevenmq@fedora
 ----------------
 OS: Fedora Linux (Workstation)
-DE: GNOME
+DE: NIRI
 Role: Full-Stack Developer
 Status: Systems Engineering Student
 
