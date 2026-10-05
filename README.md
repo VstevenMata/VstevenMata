@@ -32,6 +32,7 @@ stevenmq@fedora
 ----------------
 OS: Fedora Linux (Workstation)
 DE: NIRI
+Shell: DankMaterialShell (patched)
 Role: Full-Stack Developer
 Status: Systems Engineering Student
 
@@ -69,12 +70,23 @@ Prototype   = AI/model selection system
 Network     = Private infrastructure through Tailscale
 Status      = Currently in development
 
+[niri-dotfiles]
+Type        = Personal desktop environment (niri rice)
+Description = Fedora workspace tuned for full-stack dev: scrolling
+              windows, a quiet UI and everything on the keyboard
+Stack       = niri · DankMaterialShell · Quickshell (QML) · fish
+Features    = Floating bar pills · Zen mode · Custom lock island
+              Zen side panel · Patched DMS rebuilt on every start
+Repo        = Private · versioned as a bare git repo
+Status      = Actively improving
+
 # /etc/learning.conf
 
 [focus]
 LLMs       = Tool-use · Function calling
 Knowledge  = RAG · GraphRAG · Knowledge graphs
 Systems    = Full-Stack · Distributed systems · Linux
+Desktop    = Wayland · niri · Quickshell/QML
 
 stevenmq@fedora:~$ cat /etc/contact.conf
 
